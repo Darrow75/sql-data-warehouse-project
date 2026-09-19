@@ -1,6 +1,6 @@
 /*
 ===========================================================================
-Stored Procedure: Load Bronze Bronze Layer (Source -> Bronze)
+Stored Procedure: Load Bronze Layer (Source -> Bronze)
 ===========================================================================
 Script Purpose:
 	This stored procedure loads date into the 'bronze' schema from external
